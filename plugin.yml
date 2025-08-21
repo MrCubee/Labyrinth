@@ -1,0 +1,13 @@
+name: LabyrintheXtrem
+version: 0.1
+author: DevelopperMania
+main: com.devmania.lg.LabyrintheGenerator
+commands:
+  lab:
+    description: This command allows of got back of information about the labyrinth.
+  point:
+    description: labyrinth.
+  score:
+    description: labyrinth.
+  help:
+    description: labyrinth.
